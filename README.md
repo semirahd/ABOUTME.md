@@ -3,7 +3,7 @@ Github About Me page
 
 # Hi, I'm Semirah 👩🏽💻
 
-<img src="insert image" alt="banner that says Semirah Dolan - engineer, speaker and community organizer alongside a cartoon illustration of Semirah">
+<img src="https://github.com/semirahd/ABOUTME.md/blob/main/gh-header-image-cropped.png" alt="banner that says Semirah Dolan - engineer, speaker and community organizer alongside a cartoon illustration of Semirah">
 Semirah Dolan is a Presales Systems Engineer at Dell Technologies, a multinational leader in digital transformation, providing digital technology solutions, products, and services to drive business success.
 
 Semirah also makes waves in the tech industry as a speaker, board member, blockchain developer and inventor.
